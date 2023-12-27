@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maruf Ahmed</h1>
 <h3 align="center">I'm a passionate frontend web developer based in Bangladesh. With a creative mindset and a keen eye for details, I strive to craft engaging and user-friendly experiences on the web. My journey in the world of technology began with a curiosity-driven exploration, and since then, I've been on an exciting ride of learning, building and growing.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and SQL**
 
 - 📫 How to reach me **mrf.hmd7@gmail.com**
 
