@@ -45,7 +45,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bmdmarufahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="bmdmarufahmed" height="30" width="40" /></a><a href="https://linkedin.com/in/bmdmarufahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="bmdmarufahmed" height="30" width="40" /></a><a href="https://fb.com/bmdmarufahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="bmdmarufahmed" height="30" width="40" /></a><a href="https://instagram.com/bmdmarufahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="bmdmarufahmed" height="30" width="40" /></a></p>
+<a href="https://twitter.com/mrfhmd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="mrfhmd7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrfhmd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mrfhmd7" height="30" width="40" /></a>
+<a href="https://fb.com/mrfhmd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="mrfhmd7" height="30" width="40" /></a>
+<a href="https://instagram.com/mrf.hmd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mrf.hmd7" height="30" width="40" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfhmd7&label=Profile%20views&color=0e75b6&style=flat" alt="mrfhmd7" /> </p>
 
