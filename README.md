@@ -34,6 +34,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfhmd7&langs_count=8&theme=" alt=mrfhmd7 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfhmd7&show_icons=true&locale=en&theme=" alt="mrfhmd7" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrfhmd7&theme=default)](https://git.io/streak-stats)
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfhmd7&theme=" alt="mrfhmd7" /></p>
 
