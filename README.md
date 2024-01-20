@@ -31,6 +31,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
+<a href="https://github.com/mrfhmd7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfhmd7&langs_count=8&theme=" alt=mrfhmd7 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfhmd7&show_icons=true&locale=en&theme=" alt="mrfhmd7" /></p>
