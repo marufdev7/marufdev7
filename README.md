@@ -32,11 +32,10 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfhmd7&langs_count=8&theme=" alt=mrfhmd7 />
-
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfhmd7&layout=compact&theme=" alt=mrfhmd7 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfhmd7&show_icons=true&locale=en&theme=" alt="mrfhmd7" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfhmd7&theme=default" alt="mrfhmd7" /></p>
-<a href="https://github.com/mrfhmd7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
