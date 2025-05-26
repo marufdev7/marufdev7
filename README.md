@@ -32,24 +32,24 @@
 
 <h3 align="left">Stars</h3>
 <!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfhmd7&langs_count=8&theme=" alt=mrfhmd7 /> -->
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfhmd7&layout=compact&theme=" alt=mrfhmd7 />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfhmd7&show_icons=true&locale=en&theme=" alt="mrfhmd7" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufdev7&layout=compact&theme=" alt=marufdev7 />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marufdev7&show_icons=true&locale=en&theme=" alt="marufdev7" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfhmd7&theme=default" alt="mrfhmd7" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfhmd7&theme=default" alt="marufdev7" /></p>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <h2 align="left">⚡Activity Graph:</h2>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mrfhmd7&theme=2077"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=marufdev7&theme=2077"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrfhmd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="mrfhmd7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrfhmd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mrfhmd7" height="30" width="40" /></a>
-<a href="https://fb.com/mrfhmd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="mrfhmd7" height="30" width="40" /></a>
-<a href="https://instagram.com/mrf.hmd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mrf.hmd7" height="30" width="40" /></a></p>
+<a href="https://twitter.com/marufdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="mrfhmd7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marufdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="marufdev7" height="30" width="40" /></a>
+<a href="https://fb.com/marufdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="marufdev7" height="30" width="40" /></a>
+<a href="https://instagram.com/marufdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="marufdev7" height="30" width="40" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfhmd7&label=Profile%20views&color=0e75b6&style=flat" alt="mrfhmd7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marufdev7&label=Profile%20views&color=0e75b6&style=flat" alt="marufdev7" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrfhmd7&theme=" alt="mrfhmd7" /></a> </p> -->
