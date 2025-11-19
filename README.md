@@ -32,8 +32,10 @@
 
 <h3 align="left">Stars</h3>
 <!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfhmd7&langs_count=8&theme=" alt=mrfhmd7 /> -->
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufdev7&layout=compact&theme=" alt=marufdev7 />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marufdev7&show_icons=true&locale=en&theme=" alt="marufdev7" /></p>
+<!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufdev7&layout=compact&theme=" alt=marufdev7 /> -->
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufdev7&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt=marufdev7 />
+<!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marufdev7&show_icons=true&locale=en&theme=" alt="marufdev7" /></p> -->
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marufdev7&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="marufdev7" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marufdev7&theme=default" alt="marufdev7" /></p>
 
