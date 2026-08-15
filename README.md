@@ -32,8 +32,11 @@
 
 <h3 align="left">Stars</h3>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufdev7&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt=marufdev7 />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=marufdev7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="marufdev7" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.shion.dev/api?username=marufdev7&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt=marufdev7 /> <br/>
+<p>
+  &nbsp;
+  <img align="center" height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=marufdev7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="marufdev7" />
+</p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marufdev7&theme=default" alt="marufdev7" /></p>
 
