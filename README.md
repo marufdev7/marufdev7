@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Maruf Ahmed</h1>
-<h3 align="center">I'm a passionate frontend web developer based in Bangladesh. With a creative mindset and a keen eye for details, I strive to craft engaging and user-friendly experiences on the web. My journey in the world of technology began with a curiosity-driven exploration, and since then, I've been on an exciting ride of learning, building and growing.</h3>
+<h3 align="center">I'm a passionate front-end web developer based in Bangladesh, with a creative mindset and a keen eye for detail. My journey in tech began with curiosity-driven exploration and has since grown into building engaging, user-friendly web experiences.
+
+I've now expanded into networking, aiming to become a Network Automation Engineer — blending my development skills with networking expertise to build smarter, automated infrastructure.</h3>
 
 - 🌱 I’m currently learning **Networking, Python, Linux**
 
