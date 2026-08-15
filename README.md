@@ -33,7 +33,6 @@
 <h3 align="left">Stars</h3>
 
 <img align="left" height="180em" src="https://github-readme-stats.shion.dev/api?username=marufdev7&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt=marufdev7 /> 
-<br/>
 <p>&nbsp;
   <img align="center" height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=marufdev7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="marufdev7"/>
 </p>
